@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Alura_Visualizacao_de_dados_composicao_e_relacionamento/blob/main/Projeto_Inicial_Data_Visualization__gr%C3%A1ficos_de_composi%C3%A7%C3%A3o_e_relacionamento.ipynb)
 
-Projeto prático desenvolvido durante o curso **"[NOME DO CURSO]"**. O objetivo deste repositório é aplicar técnicas de visualização de dados voltadas para **composição**, **correlação** e **relacionamento entre variáveis**, usando Python, com foco na escolha do gráfico ideal para cada cenário, na personalização visual e nas boas práticas de comunicação de dados.
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é aplicar técnicas de visualização de dados voltadas para **composição**, **correlação** e **relacionamento entre variáveis**, usando Python, com foco na escolha do gráfico ideal para cada cenário, na personalização visual e nas boas práticas de comunicação de dados.
 
 ---
 
